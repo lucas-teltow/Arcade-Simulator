@@ -1,7 +1,7 @@
 # Arcade-Simulator
 This program stores the various games in an arcade. The data is stored in a binary tree, and can be updated.
 
-The database of games at this arcade is a binary tree, and several changes can be made to initial data. You can add a game, remove a game, check to see if a certain game is in the arcade, update a value of a specific game, or sort the games in ascending or descending order. Each game has a name, a highscore, the initials of the player with the highscore, the total number of plays, and the revenue of this particular machine.
+The database of games at this arcade is a binary tree, and several changes can be made to initial data. You can add a game, remove a game, check to see if a certain game is in the arcade, update a value of a specific game, or sort the games in ascending or descending order. Each game has a name, a highscore, the initials of the player with the highscore, the total number of plays, and the revenue of this particular machine. The program prints a description of the arcade at the end of the updates in the file cidercade.dat.
 
 **Input File** 
 
