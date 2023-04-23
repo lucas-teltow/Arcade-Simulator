@@ -3,11 +3,11 @@ This program stores the various games in an arcade. The data is stored in a bina
 
 The database of games at this arcade is a binary tree, and several changes can be made to initial data. You can add a game, remove a game, check to see if a certain game is in the arcade, update a value of a specific game, or sort the games in ascending or descending order. Each game has a name, a highscore, the initials of the player with the highscore, the total number of plays, and the revenue of this particular machine.
 
-**Input File**
+**Input File** \n
 Input files need to have the following format on each line:
 [name of game], [high score], [high score player's initials], [number of plays], [revenue in the format $XXX.XX]
 
-**Update File**
+**Update File** \n
 The update file can have several different commands, and each has a unique line structure:
 Command 1 is the add command, which addes a game. To use this command use the following syntx:
 1 "[name of game]" [high score] [high score play's initials] [number of plays] [revenue in the format $XXX.XX]
