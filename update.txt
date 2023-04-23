@@ -1,0 +1,12 @@
+1 "Centipede" 5550000 DKV 50 $12.50
+1 "Aladin" 895230 WJS 12 $3.00
+2 Donkey Kong
+1 "Defender" 750245000 LEH 100 $25.00
+1 "Frogger" 93022440 NRI 7250 $1812.50
+3 "Frogger" 1 100000020
+1 "Frogger 2" 123123130 LHT 1000 $250.00
+2 Frogger
+5 asc
+4 Aladin
+3 "Defender" 2 LKT
+4 Defender

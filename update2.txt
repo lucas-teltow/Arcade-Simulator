@@ -1,0 +1,10 @@
+1 "Vanguard" 5550000 DKV 50 $12.50
+1 "Galaga" 5550000 DKV 50 $12.50
+1 "Dig Dug" 5550000 DKV 50 $12.50
+1 "Ms. Pac-Man" 5550000 DKV 50 $12.50
+1 "Mousetrap" 5550000 DKV 50 $12.50
+1 "Pole Position" 5550000 DKV 50 $12.50
+1 "Pac-Man" 5550000 DKV 50 $12.50
+1 "Missile Command" 5550000 DKV 50 $12.50
+1 "Defender" 5550000 DKV 50 $12.50
+5 des
